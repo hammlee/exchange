@@ -1,0 +1,69 @@
+/** @format */
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.order-book-container {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.order-book-container > div {
+  width: 270px;
+}
+
+.order-book-heading {
+  font-size: 24px;
+  text-align: center;
+}
+
+.order-book-content {
+  margin-top: 10px;
+}
+
+.order-book-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.order-book-row-bold {
+  font-weight: bold;
+}
+
+.order-book-price-red {
+  color: red;
+}
+
+.order-book-price-green {
+  color: green;
+}
+
+.order-input-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.order-input-heading {
+  font-size: 24px;
+}
+
+.order-input-label {
+  margin-top: 10px;
+}
+
+.order-input {
+  margin-top: 10px;
+}
+
+.order-button {
+  margin-top: 10px;
+  padding: 5px 10px;
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}

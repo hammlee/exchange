@@ -1,0 +1,16 @@
+{
+  "asks": [
+    { "price": 10000, "amount": 5, "total": 5 },
+    { "price": 10100, "amount": 10, "total": 15 },
+    { "price": 10200, "amount": 7, "total": 22 },
+    { "price": 10300, "amount": 3, "total": 25 },
+    { "price": 10400, "amount": 1, "total": 26 }
+  ],
+  "bids": [
+    { "price": 9500, "amount": 10, "total": 10 },
+    { "price": 9400, "amount": 15, "total": 25 },
+    { "price": 9300, "amount": 7, "total": 32 },
+    { "price": 9200, "amount": 4, "total": 36 },
+    { "price": 9100, "amount": 6, "total": 42 }
+  ]
+}
